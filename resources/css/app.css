@@ -1,0 +1,18 @@
+body{
+    margin: 100px; 
+}
+.header-step {
+    border: 1px;
+    border-style: solid;
+    padding: 3px;
+}
+.step-con {
+    display: flex;
+    margin-bottom: 50px;
+}
+.hidden {
+   display: none;
+}
+.err-msg {
+    color: red;
+}
